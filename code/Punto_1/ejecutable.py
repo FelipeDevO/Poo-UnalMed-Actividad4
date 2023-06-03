@@ -1,6 +1,6 @@
 from Clases import * 
 
-tipoCuenta=input("Ingrese tipo de cuenta 'Ahorros' o 'Corriente\n")
+tipoCuenta=input("Ingrese tipo de cuenta 'Ahorros' o 'Córriente\n")
 saldo=input("Ingrese el saldo inicial\n")
 tasa=input("Ingrese la tasa de la comision (en decimales)\n")
 
